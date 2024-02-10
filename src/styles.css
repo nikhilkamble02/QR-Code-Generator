@@ -1,0 +1,24 @@
+body {
+  background-color: aliceblue;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  opacity: 0.8;
+  margin: 2rem;
+}
+input {
+  height: 2rem;
+  padding: 0.3rem 0.8rem;
+  font-size: 1.5rem;
+  color: rgb(84, 84, 84);
+  margin: 1.5rem;
+}
+
+.QRcode {
+  background-color: rgb(218, 218, 218);
+  /* border: 2rem solid; */
+  padding: 2rem;
+}
